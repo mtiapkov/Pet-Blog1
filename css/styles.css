@@ -1,0 +1,29 @@
+h1 {
+  color: blueviolet;
+}
+
+p {
+
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-weight: 450px;
+}
+
+ol, ul {
+  text-align: left;
+  line-height: 20px;
+  
+}
+
+.black-background {
+  background-color: black;
+  color: white;
+}
+
+.light-background {
+  background-color: white;
+  color: black;
+}
+
+#lightBtn {
+  display: none;
+}
